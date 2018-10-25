@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PastWeather</string>
+    <string name="action_settings">Settings</string>
+    <string name="refreshLocation">Refresh Location</string>
+</resources>
